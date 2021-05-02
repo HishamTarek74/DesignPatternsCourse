@@ -17,7 +17,7 @@ class BenzCar implements  CarInterface
     public function calculatePrice()
     {
         // TODO: Implement calculatePrice() method.
-        return $this->price+$this->tax+200000;
+        return $this->price+$this->tax+2000;
     }
 
 }
